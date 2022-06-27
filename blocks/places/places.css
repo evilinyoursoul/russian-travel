@@ -23,5 +23,6 @@
   .places {
     width: 100%;
     row-gap: 50px;
+    margin-top: 64px;
   }
 }
