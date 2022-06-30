@@ -1,3 +1,7 @@
 .header__lang-link_active {
   border-bottom: solid var(--basic-white);
 }
+
+.header__lang-link_active:hover {
+  opacity: 1;
+}
