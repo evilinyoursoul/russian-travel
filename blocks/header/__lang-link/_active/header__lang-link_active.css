@@ -2,6 +2,8 @@
   border-bottom: solid var(--basic-white);
 }
 
+
 .header__lang-link_active:hover {
+  /* Свойство нужно, чтобы не менялся вид элемента при наведении на уже выбранный, текущий язык */
   opacity: 1;
 }
